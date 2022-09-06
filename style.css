@@ -1,0 +1,56 @@
+@charset "ISO-8859-1";
+html, body{
+	 
+		font-family:Verdana;
+}
+	
+
+table {   
+	border-collapse:collapse;
+	border:1px solid gray;
+	font-family: Verdana;
+	width:75%;
+ 
+}
+ 
+th {
+	border-bottom:1px solid gray;
+	padding:10px;
+	color: red;
+}
+
+tr {
+	border-top:1px solid gray;
+	text-align:center;	
+}
+
+h1 {
+color: #999999;
+font-family: arial, sans-serif;
+font-size: 45px;
+font-weight: bold;
+margin-top: 0px;
+margin-bottom: 1px;
+}
+
+ h2 {
+color: blue;
+font-family: arial, sans-serif;
+font-size: 25px;
+font-weight: bold;
+
+}
+ 
+
+
+
+
+
+
+
+	
+
+
+
+
+		 
